@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  height: 50px;
+  width: 100%;
+  background-color: #0f0f0f;
+  color: white;
+  padding-top: 15px;
+  padding-left: 60px;
+  position: fixed;
+  top: 0.2px;
+}
+.aheader {
+  text-decoration: none;
+  color: white;
+}
+.aheader:hover {
+  font-size: large;
+  color: rgb(235, 155, 126);
+  background-color: gray;
+  padding: 10px;
+}
+.te {
+  color: rgb(238, 115, 70);
+}
+.in {
+  width: 40%;
+  float: left;
+}
+#s1 {
+  padding: 30px;
+}
+.img1 {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  left: 250px;
+  bottom: 20px;
+  border: none;
+  border-radius: 50%;
+}
+#s2 {
+  width: 100%;
+  height: 290px;
+  background-color: rgb(104, 98, 98);
+  background-image: url(../image/2.jpg);
+  background-blend-mode: multiply;
+  background-repeat: repeat-x;
+  background-size: contain;
+  color: white;
+  position: relative;
+  bottom: 45px;
+}
+.img3 {
+  width: 80px;
+  height: 80px;
+  border: none;
+  border-radius: 50%;
+}
+#d1 {
+  float: left;
+}
+.zahra {
+  text-align: center;
+}
+.firoozi {
+  background-color: rgba(233, 99, 50, 0.7);
+  float: left;
+  width: 550px;
+  height: 90px;
+  padding: 5px;
+  position: relative;
+  left: 30%;
+}
+.sp1 {
+  position: relative;
+  left: 90px;
+  bottom: 50px;
+}
+.lale {
+  background-color: rgba(233, 99, 50, 0.7);
+  float: left;
+  width: 550px;
+  height: 90px;
+  padding: 5px;
+  position: relative;
+  left: 30%;
+}
+#foot {
+  height: 50px;
+  width: 100%;
+  background-color: #0f0f0f;
+  color: white;
+  padding-top: 15px;
+  padding-left: 60px;
+  position: relative;
+  bottom: 43px;
+  margin-bottom: 0;
+}
+
+.fo {
+  text-align: center;
+  position: relative;
+}
